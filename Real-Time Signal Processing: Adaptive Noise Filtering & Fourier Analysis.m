@@ -1,5 +1,5 @@
 clc; clear; close all;
-
+%Real-Time Signal Processing-Adaptive Noise Filtering & Fourier Analysis
 % Parameters
 fs = 1000; % Sampling frequency (Hz)
 duration = 5; % Duration of the signal (seconds)
